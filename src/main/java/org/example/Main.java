@@ -21,7 +21,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         // In a situation of multiple games running
         // our game controller must know about which game are we talking about
-        // so we need to pass game object into the gameController
+        // so, we need to pass game object into the gameController
 
         //Game game = new Game();
         // but we cannot ask user to create a game object.
